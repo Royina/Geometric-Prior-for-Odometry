@@ -1,2 +1,2 @@
-# Geometric-Prior-for-Odometry
-Project
+# ese5460_project42
+The best NeRF project ever!
